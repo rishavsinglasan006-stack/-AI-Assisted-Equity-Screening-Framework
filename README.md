@@ -1,4 +1,4 @@
-# -AI-Assisted-Equity-Screening-Framework
+# Multi-Layer Equity Selection Framework
 A structured framework for screening, ranking and analyzing equities using financial metrics and AI-assisted research.
 
 ## Problem
