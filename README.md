@@ -10,3 +10,7 @@ The challenge is not analyzing a stock.
 The challenge is identifying which stocks deserve analysis.
 
 This project creates a structured process for reducing 5000+ stocks into a focused watchlist.
+# Framework Architecture
+
+![Framework](docs/framework-overview.png)<img width="434" height="238" alt="sorted" src="https://github.com/user-attachments/assets/b60d6423-2de9-4205-ad89-e94e04ea9d8a" />
+
