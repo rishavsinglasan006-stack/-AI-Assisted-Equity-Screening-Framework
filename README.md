@@ -15,7 +15,7 @@ This project creates a structured process for reducing 5000+ stocks into a focus
 <img width="434" height="238" alt="sorted" src="https://github.com/user-attachments/assets/fcfbdec6-4649-41fe-9d77-355ac4a68734" />
 
 Version 1
-Manual Framework
+Manual Framework  
 
 Version 2 (Planned)
 Python Automation + Dashboard + AI Ranking
